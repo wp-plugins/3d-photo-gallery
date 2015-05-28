@@ -14,7 +14,7 @@
 3D Photo Gallery is a fully responsive media 3D carousel wordpress plugin that allows you to display media content with an unique original layout from a 3D perspective. It’s perfect for any kind of presentation, for anyone that wants to deliver a great impact on their visitors
 
 
-<h3>Features</h3>
+<h2>Features</h2>
 <ul>
 	<li> Edit content with visula responsive editor </li>
 	<li> Add,remove and change feature image </li>
