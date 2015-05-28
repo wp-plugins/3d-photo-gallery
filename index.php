@@ -6,8 +6,6 @@
 	Author: Labib Ahmed
 	Author URI: http://labibahmed.com
 	Version: 1.1
-	License: GPL2 or later
-	License URI: http://www.gnu.org/licenses/gpl-2.0.html
 	Text Domain: la-photogallery
 	*/
 	
