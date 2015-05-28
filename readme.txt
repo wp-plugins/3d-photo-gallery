@@ -30,11 +30,5 @@
 4. Save and add use shortcode [3D-photo-gallery] to posts and pages.
 5. View page or post.
 
-== Screenshots ==
 
-1. Admin Area.
-
-2. Use shortcode on post,page or custom post type.
-
-3. 3D Gallery in action.
 
