@@ -1,5 +1,5 @@
 <?php
-		/*
+	/*
 	Plugin Name: 3D Photo Gallery
 	Description: 3D Photo Gallery is a fully responsive media 3D carousel wordpress plugin that allows you to display media content with an unique original layout from a 3D perspective.
 	Plugin URI: http://labibahmed.com
