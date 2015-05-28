@@ -21,6 +21,17 @@ Create a photo gallery with CSS3 3D animation effects.
 	<li> Easy to use  </li>
 </ul>
 
+<h2>Goals</h2>
+<ul>
+<li> responsive </li>
+<li> save time</li>
+<li> user friendly interface </li>
+<li> save as many trips to the backend as possible </li>
+<li> compatible with any theme</li>
+<li> light and fast</li>
+<li> AJAX based process </li>
+</ul>
+
 == Installation ==
 1. Go to plugins in your dashboard and select 'add new'
 2. Search for '3D Photo Gallery', install and activate it
