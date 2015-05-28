@@ -1,26 +1,24 @@
- === WP Quick FrontEnd Editor === 
+ === 3D Photo Gallery === 
  Contributors: Labibahmed42
- Tags: front end editor,responsive,bootstrap,featured image,quick,woocommerce, products, product title, product contents, desciption, post title, post contents, page title, visual editor, front editor, wp editor, custom post type, site contents, simple user edit, simple editor, wp content editor, post, update post, contents, edit, edit contents, front edit, simple, posts, pages, page, products,inline, editor, edit-in-place, visual, wysiwyg
+ Tags: image,gallery,responsive,3D,CSS3 animation,photo gallery,slider,shortcode,photo album,photo collection,sortable,jQuery,CSS3
  Requires at least: 3.5
  Tested up to: 4.2.1
- Stable tag: 1.2.0
+ Stable tag: 1.1
  License: GPLv2 or later
  License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
- Edit Posts,Custom posts and Pages content including Featured image from frontend with visual editor.
+Create a photo gallery with CSS3 3D animation effects.
 
 == Description ==
-
-WP Quick FrontEnd Editor plugin will allow you to change and save contents of post and pages by using WYSIWYG editor from frontend of your site without going to Dashboard for little change.You can format your text as you want.
-You can also add images from wordpress gallery by drag and drop and by using upload button.You can add,remove and change featured image.
+3D Photo Gallery is a fully responsive media 3D carousel wordpress plugin that allows you to display media content with an unique original layout from a 3D perspective. It’s perfect for any kind of presentation, for anyone that wants to deliver a great impact on their visitors.
 
 <h2>Features</h2>
 <ul>
-	<li> Edit content with visula responsive editor </li>
-	<li> Add,remove and change feature image </li>
-	<li> Responsive  </li>
+	<li> 3D carousel gallery </li>
+	<li> CSS3 & jQuery animation </li>
 	<li> Compatible with all themes  </li>
-	<li> Add images to content from wordpress gallery  </li>
+	<li> Shortcode enabled  </li>
+	<li> Easy to use  </li>
 </ul>
 
 <h2>Goals</h2>
@@ -35,19 +33,17 @@ You can also add images from wordpress gallery by drag and drop and by using upl
 </ul>
 
 == Installation ==
-1. Go to plugins in your dashboard and select \'add new\'
-2. Search for \'WP Front End Editor\', install and activate it
-3. Now view your posts and pages and enable plugin by clicking on enable button.Now edit your content and images
-4. Click save button when over with changes and your post or pages will be updated according to changes
+1. Go to plugins in your dashboard and select 'add new'
+2. Search for '3D Photo Gallery', install and activate it
+3. Go to Dashboard > 3D Photo Gallery and upload images.
+4. Save and add use shortcode [3D-photo-gallery] to posts and pages.
+5. View page or post.
 
 == Screenshots ==
 
-1. Post or Page view before editing.
+1. Admin Area.
 
-2. Enable WP Quick Editor by clicking on highlited button
+2. Use shortcode on post,page or custom post type
 
-3. Title Edited with WP Quick FrontEnd Editor and Image is Inserted.
+3. 3D Gallery in action.
 
-4. Content Formated in editor.
-
-5. Page and Post view after logout.
