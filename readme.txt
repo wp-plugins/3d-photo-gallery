@@ -13,7 +13,7 @@
 == Description ==
 3D Photo Gallery is a fully responsive media 3D carousel wordpress plugin that allows you to display media content with an unique original layout from a 3D perspective. It’s perfect for any kind of presentation, for anyone that wants to deliver a great impact on their visitors.
 It allow you to display your image collection with unique look.
-<a href="http://labibahmed.com/3d-photo-gallery-demo/">DEMO</a><br>
+
 
 
 <h2>Features</h2>
