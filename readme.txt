@@ -14,7 +14,7 @@
 It allow you to display your image collection with unique look.
 
 
-<a href="http://labibahmed.com/3d-photo-gallery-demo/">Demo</a>
+
 
 <h2>Features</h2>
 <ul>
