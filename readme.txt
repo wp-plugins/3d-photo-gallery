@@ -1,18 +1,20 @@
- === 3D Photo Gallery === 
+﻿ === 3D Photo Gallery === 
  Contributors: Labibahmed42
- Tags: image,gallery,responsive,3D,CSS3 animation,photo gallery,slider,shortcode,photo album,photo collection,sortable,jQuery,CSS3
+ Tags: image,gallery,responsive,3D,CSS3 animation,photo gallery,slider,shortcode,photo album,photo collection,sortable
  Requires at least: 3.5
  Tested up to: 4.2.1
- Stable tag: 1.1
+ Stable tag: 1.2
  License: GPLv2 or later
  License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Create a photo gallery with CSS3 3D animation effects.
-
+ Create a photo gallery with CSS3 3D animation effects.
 
 == Description ==
+3D Photo Gallery is a fully responsive media 3D carousel wordpress plugin that allows you to display media content with an unique original layout from a 3D perspective. It’s perfect for any kind of presentation, for anyone that wants to deliver a great impact on their visitors.
+It allow you to display your image collection with unique look.
 
-3D Photo Gallery is a fully responsive media 3D carousel wordpress plugin that allows you to display media content with an unique original layout from a 3D perspective. It’s perfect for any kind of presentation, for anyone that wants to deliver a great impact on their visitors..
+
+<a href="http://labibahmed.com/3d-photo-gallery-demo/">Demo</a>
 
 <h2>Features</h2>
 <ul>
@@ -23,14 +25,6 @@ Create a photo gallery with CSS3 3D animation effects.
 	<li> Easy to use  </li>
 </ul>
 
-<h2>Goals</h2>
-<ul>
-<li> responsive </li>
-<li> save time</li>
-<li> user friendly interface </li>
-<li> save as many trips to the backend as possible </li>
-<li> compatible with any theme</li>
-</ul>
 
 == Installation ==
 1. Go to plugins in your dashboard and select 'add new'
@@ -43,7 +37,11 @@ Create a photo gallery with CSS3 3D animation effects.
 
 1. Admin Area.
 
-2. Use shortcode on post,page or custom post type.
+2. Use shortcode on post,page or custom post type
 
 3. 3D Gallery in action.
+
+== Changelog ==
+= 1.2 =
+* Added link option 
 
