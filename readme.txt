@@ -1,6 +1,7 @@
 ﻿ === 3D Photo Gallery === 
  Contributors: Labibahmed42
  Tags: image,gallery,responsive,3D,CSS3 animation,photo gallery,slider,shortcode,photo album,photo collection,sortable
+ Donate link: http://labibahmed.com/get-in-touch/
  Requires at least: 3.5
  Tested up to: 4.2.1
  Stable tag: 1.2
@@ -12,9 +13,8 @@
 == Description ==
 3D Photo Gallery is a fully responsive media 3D carousel wordpress plugin that allows you to display media content with an unique original layout from a 3D perspective. It’s perfect for any kind of presentation, for anyone that wants to deliver a great impact on their visitors.
 It allow you to display your image collection with unique look.
+<a href="http://labibahmed.com/3d-photo-gallery-demo/">DEMO</a><br>
 
-
-<a href="http://labibahmed.com/3d-photo-gallery-demo/">Demo</a>
 
 <h2>Features</h2>
 <ul>
