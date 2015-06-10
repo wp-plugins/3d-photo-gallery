@@ -1,6 +1,7 @@
 ﻿ === 3D Photo Gallery === 
  Contributors: Labibahmed42
  Tags: image,gallery,responsive,3D,CSS3 animation,photo gallery,slider,shortcode,photo album,photo collection,sortable,jQuery,CSS3
+ Donate link: http://labibahmed.com/get-in-touch/
  Requires at least: 3.5
  Tested up to: 4.2.1
  Stable tag: 1.2
